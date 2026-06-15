@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "01_dualpress") (type "KiCad") (uri "/home/mrksnktr/dev/dualpress-kicad/dualpress") (options "") (descr ""))
+)
