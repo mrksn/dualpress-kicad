@@ -610,13 +610,37 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLCPCB",
+          "name": "JLCPCB",
           "show": true
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -657,17 +681,37 @@
     "top_level_sheets": [
       {
         "filename": "dualpress.kicad_sch",
-        "name": "Root",
+        "name": "MCU ESP32-S3",
         "uuid": "4c49edca-ce86-4659-a271-9f68536bc424"
       }
     ],
-    "used_designators": "",
+    "used_designators": "S1-2,R1-2,R4-21,J1-5,#PWR3-13,#PWR18-36,D1,D3-18,C1,C3-11,Q1-3,U1,U3-5",
     "variants": []
   },
   "sheets": [
     [
       "4c49edca-ce86-4659-a271-9f68536bc424",
-      "Root"
+      "MCU ESP32-S3"
+    ],
+    [
+      "06fc59a2-20aa-43b1-824c-9ff3281b7999",
+      "USB"
+    ],
+    [
+      "6704547a-04be-421b-8f43-00dc42febfd1",
+      "PWR SUPPLY"
+    ],
+    [
+      "9851d7fb-d011-4e47-b3af-21921318502d",
+      "USB SERIAL"
+    ],
+    [
+      "c532dc73-b6bb-4d96-b5c6-81b57a674d20",
+      "DISPLAY"
+    ],
+    [
+      "543aee8e-2b2f-4977-9416-02d65e4a96d7",
+      "SENSORS"
     ]
   ],
   "text_variables": {},
