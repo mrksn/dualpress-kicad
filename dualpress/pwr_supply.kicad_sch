@@ -1535,10 +1535,6 @@
 		)
 		(instances
 			(project "dualpress"
-				(path "/4c49edca-ce86-4659-a271-9f68536bc424"
-					(reference "U1")
-					(unit 1)
-				)
 				(path "/4c49edca-ce86-4659-a271-9f68536bc424/6704547a-04be-421b-8f43-00dc42febfd1"
 					(reference "U1")
 					(unit 1)

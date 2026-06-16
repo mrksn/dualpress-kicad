@@ -9,7 +9,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at 0.508 4.064 0)
+			(at -6.858 5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19,7 +19,7 @@
 			)
 		)
 		(property "Value" "2.8\" Touch Display SPI 14x1"
-			(at 0.508 -42.418 0)
+			(at 1.016 -58.674 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -51,7 +51,7 @@
 			)
 		)
 		(property "Description" "2.8\" Touch Display SPI 14x1"
-			(at 0.508 -42.418 0)
+			(at 1.016 -60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -61,9 +61,22 @@
 				)
 			)
 		)
+		(symbol "2.8{dblquote} Touch Display SPI 14x1_0_1"
+			(rectangle
+				(start -7.62 3.81)
+				(end 6.35 -44.45)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
 		(symbol "2.8{dblquote} Touch Display SPI 14x1_1_1"
 			(pin passive line
-				(at 0 0 180)
+				(at -11.43 -3.81 0)
 				(length 3.81)
 				(name "T_IRQ"
 					(effects
@@ -81,7 +94,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -2.54 180)
+				(at -11.43 -6.35 0)
 				(length 3.81)
 				(name "T_DO"
 					(effects
@@ -99,7 +112,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -5.08 180)
+				(at -11.43 -8.89 0)
 				(length 3.81)
 				(name "T_DIN"
 					(effects
@@ -117,7 +130,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -7.62 180)
+				(at -11.43 -11.43 0)
 				(length 3.81)
 				(name "T_CS"
 					(effects
@@ -135,7 +148,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -10.16 180)
+				(at -11.43 -13.97 0)
 				(length 3.81)
 				(name "T_CLK"
 					(effects
@@ -152,10 +165,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 0 -15.24 180)
+			(pin no_connect line
+				(at 10.16 -22.86 180)
 				(length 3.81)
-				(name "SDO_(MISO)"
+				(name "SDO(MISO)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -171,7 +184,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -17.78 180)
+				(at 10.16 -25.4 180)
 				(length 3.81)
 				(name "LED"
 					(effects
@@ -189,7 +202,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -20.32 180)
+				(at 10.16 -27.94 180)
 				(length 3.81)
 				(name "SCK"
 					(effects
@@ -207,9 +220,9 @@
 				)
 			)
 			(pin passive line
-				(at 0 -22.86 180)
+				(at 10.16 -30.48 180)
 				(length 3.81)
-				(name "SDI_(MISO)"
+				(name "SDI_(MOSI)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -225,7 +238,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -25.4 180)
+				(at 10.16 -33.02 180)
 				(length 3.81)
 				(name "DC"
 					(effects
@@ -243,7 +256,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -27.94 180)
+				(at 10.16 -35.56 180)
 				(length 3.81)
 				(name "RESET"
 					(effects
@@ -261,7 +274,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -30.48 180)
+				(at 10.16 -38.1 180)
 				(length 3.81)
 				(name "CS"
 					(effects
@@ -279,7 +292,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -35.56 180)
+				(at 0 -48.26 90)
 				(length 3.81)
 				(name "GND"
 					(effects
@@ -297,7 +310,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -38.1 180)
+				(at 0 7.62 270)
 				(length 3.81)
 				(name "VCC"
 					(effects
