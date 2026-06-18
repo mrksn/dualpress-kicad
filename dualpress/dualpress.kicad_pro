@@ -1033,7 +1033,7 @@
         "uuid": "4c49edca-ce86-4659-a271-9f68536bc424"
       }
     ],
-    "used_designators": "D11,C6-9,C11-12,C15-18,R20,R22,R42",
+    "used_designators": "U8-9,J11-12,D10-11,C6-9,C11-12,C15-18,R20,R22,R42-43",
     "variants": []
   },
   "sheets": [

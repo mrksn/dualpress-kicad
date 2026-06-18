@@ -7630,7 +7630,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "PCM_JLCPCB:D_SOT-23"
 			(at 62.992 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -7663,7 +7663,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C7420370"
+		(property "LCSC" "C49581"
 			(at 64.77 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -8187,7 +8187,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25804"
+		(property "LCSC" "C116677"
 			(at 142.24 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -8465,7 +8465,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25804"
+		(property "LCSC" "C116677"
 			(at 53.34 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -9055,7 +9055,7 @@
 				)
 			)
 		)
-		(property "JLCPCB" "C237493"
+		(property "JLCPCB" "C15850"
 			(at 162.56 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10203,7 +10203,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "PCM_JLCPCB:D_SOT-23"
 			(at 62.992 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -10607,7 +10607,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C23162"
+		(property "LCSC" "C99782"
 			(at 142.24 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -11159,7 +11159,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -11185,7 +11185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:D_0603"
+		(property "Footprint" "PCM_JLCPCB:D_0805"
 			(at 63.5 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -11229,7 +11229,7 @@
 				)
 			)
 		)
-		(property "JLCPCB" "C2286"
+		(property "JLCPCB" "C84256"
 			(at 63.5 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -11399,7 +11399,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25804"
+		(property "LCSC" "C116677"
 			(at 53.34 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -12062,7 +12062,7 @@
 				)
 			)
 		)
-		(property "JLCPCB" "C49678"
+		(property "JLCPCB" "C28233"
 			(at 167.64 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -12366,7 +12366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
 			(at 59.69 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -12556,7 +12556,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C23162"
+		(property "LCSC" "C99782"
 			(at 132.08 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -13516,7 +13516,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_JLCPCB:SW_TS-1088-AR02016"
 			(at 83.82 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -13957,7 +13957,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_JLCPCB:SW_TS-1088-AR02016"
 			(at 40.64 139.7 0)
 			(hide yes)
 			(show_name no)

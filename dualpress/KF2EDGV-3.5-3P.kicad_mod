@@ -1,0 +1,206 @@
+(footprint "KF2EDGV-3.5-3P"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Plugin,P=3.5mm")
+	(property "Reference" "REF**"
+		(at -47 32.8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "cde67322-f655-47ed-994a-55884ebdc69f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "KF2EDGV-3.5-3P"
+		(at -47 34.3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3461992f-6e3f-4ed1-9c11-d887e9b2183a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8588888252354318336-C441321.pdf?response-content-disposition=attachment%3B%20filename%3DC441321.pdf%3B%20filename%2A%3DUTF-8%27%27C441321.pdf&x-oss-date=20260616T184215Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5rSDtSBv41L0ZCOaFSIszdhZ%2FoUnqTPmjz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qdoTgXNE4J7b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWiqlR09vztHD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMI3Q3x7qKWD5sagAExRYtrhz2gsE872CBVbKIctF7tvUis4pKJSh7T3yC8KxpmV1RFp6ThcU%2FIhFQ01X1HhWQ4Vkl0Ou1kufB934iVIMO2%2F5hbHbgdp2zUPpbXHHCUos%2BrQGLFe0B1Ba7fEYr5AXCgxsJ7DbWlc2ZEM5vUCD6Uq9FsOnhaqKGk%2F0PYwiAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NYgEn5RRjfRejr9W74ku8qadx%2F20260616%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=815dbdef77a49a03247d11487e219ba94e9ed52ad25a3bed6e18cef9a59861eb"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b0ab5b3-16f4-41d6-9251-9d8dcaf64ad2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "-40℃~+105℃ 1 10A 1x2P 2 2P 3.5mm 300V Board Side/Socket - Closed Green Through Hole 插件,P=3.5mm Pluggable System Terminal Block ROHS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8816de0-d582-4990-9cc7-e7a95919d7ec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.25 -0.25)
+		(end -0.25 7.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1d8288ea-a2a5-4885-aed7-dee292e3c2f0")
+	)
+	(fp_line
+		(start -0.25 7.25)
+		(end 11.8 7.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6ad9f0ca-6f83-42ea-8860-1885613e84f8")
+	)
+	(fp_line
+		(start 11.75 7.25)
+		(end 11.75 -0.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b89c83c1-63bc-4c10-b4e7-b94861f98bc5")
+	)
+	(fp_line
+		(start 11.8 -0.25)
+		(end -0.25 -0.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "10e2950c-1fb6-476b-9932-05b03338d0e8")
+	)
+	(fp_line
+		(start 0 0)
+		(end 11.5 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "c6de9c34-39c7-47b4-a858-4ff23c874232")
+	)
+	(fp_line
+		(start 0 7)
+		(end 0 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "9938927e-3940-4842-9b49-af01ff5187dd")
+	)
+	(fp_line
+		(start 11.5 0)
+		(end 11.5 7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "258f0f07-b42d-4ee2-9103-28229fd76e15")
+	)
+	(fp_line
+		(start 11.5 7)
+		(end 0 7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "f56ceaa4-c59d-469c-8e2d-ee2f1da67ea0")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -47 35.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "34ea41ca-5a94-449c-88a8-8d160346d43c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 2.3 1.2)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5ac74df6-3fec-43de-8e37-63603a1e9181")
+	)
+	(pad "2" thru_hole circle
+		(at 5.8 1.2)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1b1d8e4b-ac6e-43eb-b811-bc211dbefdca")
+	)
+	(pad "3" thru_hole circle
+		(at 9.3 1.2)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b1e781fa-5b90-4cc8-9267-ee450c626319")
+	)
+	(zone
+		(layer "F.SilkS")
+		(uuid "77041e11-4462-418b-8a5e-77f1221bacc1")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads not_allowed)
+			(copperpour allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 0 0) (xy 11.5 0) (xy 11.5 7) (xy 0 7)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
